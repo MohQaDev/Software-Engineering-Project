@@ -21,10 +21,29 @@ This project presents a web-based Learning Management System (LMS) designed to s
 The LMS relies on a centralized database to manage users, courses, assignments, submissions, and grades. Notification mechanisms are used to inform users about important academic events such as deadlines, updates, and feedback availability.
 
 ### Tools & Technologies
-- Diagram Design: draw.io
-- Editor: Visual Studio Code
-- Documentation: Markdown, Pandoc
-- Version Control: GitHub
+- **Diagram Design:** draw.io
+- **Editor:** Visual Studio Code
+- **Documentation:** Markdown, Pandoc
+- **Version Control:** GitHub
+
+---
+
+## Team Contributions
+
+### Responsibilities and Major Contributions
+In this project, a cross-functional approach was adopted where **everyone worked on everything**. Every team member participated in the analysis, design, and documentation phases to ensure a comprehensive understanding of the system.
+
+* **Requirements Analysis:** All members contributed to defining the problem statement, stakeholders, and functional requirements.
+* **UML Modeling:** The team collaborated on the design of all diagrams (Context, Activity, Use Case, Sequence, Class, and State) through peer-review sessions to ensure architectural consistency.
+* **Technical Documentation:** Each member authored specific sections of the `report.md` and contributed to the behavioral modeling descriptions and stimulus tables.
+* **Quality Assurance:** Diagrams and descriptions were cross-checked by all members to align with the project’s technical requirements.
+
+### Collaboration Workflow
+Our team utilized a standard software engineering workflow to manage the project lifecycle:
+* **Version Control:** Hosted on GitHub, ensuring all changes were tracked via descriptive commit messages.
+* **Commits & Tracking:** Individual progress was captured through frequent commits, allowing the team to monitor the evolution of the UML models and documentation.
+* **Issue Resolution:** Problems identified during the diagramming phase were discussed and resolved collectively before being merged into the final documentation.
+* **Documentation Pipeline:** We used Pandoc for continuous integration of our Markdown files into the final PDF report, ensuring consistent formatting across all versions.
 
 ---
 
