@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
+  <diagram name="Page-1" id="6u1l7fMYHkytwH9YzI1h">
+    <mxGraphModel dx="1251" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Student&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="20" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="350.22" as="sourcePoint" />
+            <mxPoint x="240" y="349.99777777777786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-8" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="160" width="10" x="125" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-13" edge="1" parent="1" source="HOmElCXBs4-4Pfpj2UiO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-10" parent="1" style="html=1;whiteSpace=wrap;" value="Assignments" vertex="1">
+          <mxGeometry height="30" width="90" x="200" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="360.22" as="sourcePoint" />
+            <mxPoint x="370" y="359.99777777777786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-14" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="140" width="10" x="240" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-16" edge="1" parent="1" source="HOmElCXBs4-4Pfpj2UiO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="HOmElCXBs4-4Pfpj2UiO-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="375" />
+            </Array>
+            <mxPoint x="375" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-17" parent="1" style="html=1;whiteSpace=wrap;" value="Database" vertex="1">
+          <mxGeometry height="30" width="90" x="330" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-18" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="130" width="10" x="370" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-19" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Instructor&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="20" x="490" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;endArrow=block;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-20" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="160" width="10" x="495" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="414.44" as="sourcePoint" />
+            <mxPoint x="250" y="414.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="450" as="sourcePoint" />
+            <mxPoint x="250" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;viewAssignments(SID)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="50" x="160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;report (assignment list, title, details, deadline, instructor)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="110" x="260" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;createAssignment(title, details, deadline)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="110" x="385" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;assignment details&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="110" x="260" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Error (no assignments available)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="260" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-34" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="alt" vertex="1">
+          <mxGeometry height="120" width="530" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="429.6" as="sourcePoint" />
+            <mxPoint x="570" y="429.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[available: OK]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HOmElCXBs4-4Pfpj2UiO-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[available: FAIL]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

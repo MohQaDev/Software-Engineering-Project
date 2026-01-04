@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Page-1" id="LocKp-AdSwoZvZ5Q-NPo">
+    <mxGraphModel dx="860" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-32" parent="1" style="shape=mxgraph.c4.system;html=1;whiteSpace=wrap;fontColor=#000000;fillColor=#999999;strokeColor=#666666;" value="&lt;b&gt;Learning Management System (LMS)&lt;/b&gt;&lt;br&gt;&lt;i&gt;Manages course delivery, assignments, grading, and communication&lt;/i&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="370" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-33" parent="1" style="shape=mxgraph.c4.person;html=1;whiteSpace=wrap;fontColor=#000000;fillColor=#08427B;strokeColor=#052B4F;" value="&lt;b&gt;Student&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="260" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-34" parent="1" style="shape=mxgraph.c4.person;html=1;whiteSpace=wrap;fontColor=#000000;fillColor=#08427B;strokeColor=#052B4F;" value="&lt;b&gt;Instructor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="645" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-35" parent="1" style="shape=mxgraph.c4.person;html=1;whiteSpace=wrap;fontColor=#000000;fillColor=#08427B;strokeColor=#052B4F;" value="&lt;b&gt;Administrator&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="370" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-36" parent="1" style="shape=mxgraph.c4.externalSystem;html=1;whiteSpace=wrap;fontColor=#000000;fillColor=#999999;strokeColor=#666666;" value="&lt;b&gt;Email / Notification System&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="620" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-40" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-34" value="Student submissions, performance reports">
+          <mxGeometry relative="1" x="0.6667" y="-300" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-41" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=0;entryX=0.25;entryY=1;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-32" value="User management data, course configuration information">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-42" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-35" value="System reports and administrative insights">
+          <mxGeometry relative="1" x="0.7143" y="10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-43" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.75;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-36" value="Notification requests (e.g., deadlines, grading updates)">
+          <mxGeometry relative="1" x="0.0476" y="55" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-44" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;entryX=1;entryY=0.75;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-32" value="Delivery status confirmations">
+          <mxGeometry relative="1" x="-0.2381" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-39" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-32" value="Course materials, assignment details, grades and feedback">
+          <mxGeometry relative="1" x="-0.6667" y="40" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-37" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-32" value="Login credentials, course access requests, assignment submission data">
+          <mxGeometry relative="1" x="0.4074" y="-100" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckH__lnN3RvQ-UKHj7mL-38" edge="1" parent="1" source="ckH__lnN3RvQ-UKHj7mL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=0;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;" target="ckH__lnN3RvQ-UKHj7mL-33" value="Course content, grades and feedback, system notifications">
+          <mxGeometry relative="1" x="0.2593" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
