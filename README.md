@@ -44,7 +44,7 @@ The LMS relies on a centralized database to manage users, courses, assignments, 
 /docs
   ├── report.md
   ├── report.pdf
-/diagrams
+/uml
   ├── *.png
 /archive
   ├── old unorganized content but needed
